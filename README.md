@@ -5,10 +5,7 @@
 - I'm a beginner in this world of developers, I hope to help and also get help from everyone in this community!
 
 
- <a href="https://github.com/DevMeneses">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devmeneses&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-</div>
+ 
 <div style="display: inline_block"><br>
 
 <h2>Technologies I use in my daily life</h2>
